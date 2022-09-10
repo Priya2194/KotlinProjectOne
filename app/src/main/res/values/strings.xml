@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KotlinProjectOne</string>
+    <string name="c">C is an imperative procedural language supporting structured programming, lexical variable scope, and recursion, with a static type system.</string>
+    <string name="cpp">C++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.</string>
+    <string name="dart">Dart is a dynamic, class-based, object-oriented programming language with closure and lexical scope.</string>
+    <string name="java">Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.</string>
+    <string name="kotlin">Kotlin is a general-purpose, statically typed, and open-source programming language. It runs on JVM and can be used anywhere Java is used today.</string>
+    <string name="php">PHP is an open-source, interpreted, and object-oriented scripting language that can be executed at the server-side. PHP is well suited for web development.</string>
+    <string name="python">Python is a general purpose, dynamic, high-level, and interpreted programming language. It supports Object Oriented programming approach to develop applications.</string>
+    <string name="ruby">Ruby is an open-source and fully object-oriented programming language.</string>
+    <string name="sql">SQL (Structured Query Language) is used to perform operations on the records stored in the database, such as updating records, inserting records, deleting records, creating and modifying database tables, views, etc.</string>
+    <string name="swift">Swift is a general purpose programming language for developing iOS applications. It is developed by Apple Inc.</string>
+</resources>
